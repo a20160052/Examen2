@@ -1,0 +1,13 @@
+body{
+    background-color: coral;
+}
+h1{
+    text-align: center;
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    size: 50;
+}
+p{
+ color: rgb(139, 0, 0);
+ size: 30;
+}
